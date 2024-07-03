@@ -4,7 +4,7 @@ as classes geram novos objetos (isntâncias) que
 podem ter seus próprios atributos e métodos.
 Os objetos gerados pela classe de podem usar seus dados
 internos para realizar várias ações.
-por convenção, usamos PascalCase para nomes de classes
+por convenção, usamos PascalCase para nomes de classes.
 """
 # string = 'Luiz'
 # print(string.upper())
